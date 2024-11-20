@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#11dce7;fill-opacity:0.450355;stroke:#db2d4d;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect41"
+       width="26.458332"
+       height="26.458332"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#11dce7;fill-opacity:0.450355;stroke:#db2d4d;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path42"
+       d="M 5.13259,7.35702 4.53791,5.92963 3.24428,5.08251 4.41804,4.07585 4.82394,2.58376 6.14405,3.389 7.68855,3.31395 7.33065,4.81828 7.8793,6.26399 6.338,6.38848 Z" />
+    <circle
+       style="fill:#11dce7;fill-opacity:0.450355;stroke:#db2d4d;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path43"
+       cx="5.1363416"
+       cy="19.709219"
+       r="1.5528475" />
+    <path
+       style="fill:#11dce7;fill-opacity:0.450355;stroke:#db2d4d;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path50"
+       d="m 22.9462,9.73088 -3.2008,-0.66121 -3.2008,-0.66121 2.173,-2.44133 2.173,-2.44134 1.0278,3.10254 z" />
+    <path
+       style="fill:#11dce7;fill-opacity:0.450355;stroke:#db2d4d;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path51"
+       d="m 10.3355,13.4933 2.0986,-0.084 0.554,-2.0258 1.122,1.7753 2.0315,-0.5331 -0.9765,1.8594 1.4774,1.4928 -2.0986,0.084 -0.554,2.0258 -1.122,-1.7754 -2.0315,0.5331 0.9765,-1.8594 z" />
+    <rect
+       style="fill:#10dce7;fill-opacity:0.45098;stroke:#db2d4d;stroke-width:1.32292;stroke-linecap:square;paint-order:fill markers stroke"
+       id="rect1"
+       width="5.6380348"
+       height="2.7234569"
+       x="17.223631"
+       y="19.144842"
+       transform="rotate(135,20.042659,20.506567)" />
+  </g>
+</svg>
